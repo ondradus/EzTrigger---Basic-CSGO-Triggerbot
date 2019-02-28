@@ -18,7 +18,7 @@ using System.Threading;
                           |___/ |___/    
 
    [+] A very simple CSGO triggerbot with tidy memory management class
-   [+] Made by Dondor17
+   [+] Made by Ondradus
    [+] As basic as it gets....
 
 
